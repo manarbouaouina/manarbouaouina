@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Manar
 
-<!--
-**manarbouaouina/manarbouaouina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity student | 🛡️ SOC & Cloud Security  
+🌍 Tunisia  
+💡 Passionate about blue team, SIEM, SOAR & threat detection
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 What I’m working on
+- SOC Multi-Cloud (Azure + AWS + Splunk)
+- Automated Threat Detection (Flask, n8n, SQLite)
+- Cybersecurity research on AI & Deepfakes
+
+---
+
+## 🛠️ Skills & Tools
+**Security:**  
+SIEM (Splunk), SOAR, IDS/IPS, Firewalls, IAM, Incident Response  
+
+**Cloud:**  
+Azure (Monitor, Sentinel), AWS (CloudTrail, GuardDuty)  
+
+**Programming:**  
+Python, Java, Bash  
+
+---
+
+## 📌 Projects
+- 🔎 **Threat Detection System** – Flask + n8n
+- 🗑️ **Smart Bin (IoT + Security)**
+- 🎓 **Cybersecurity Bootcamp (Security+)**
+
+---
+
+## 🏆 Achievements
+- IEEE WIE Student Affinity Groups Coordinator
+- CTF competitions
+- Cybersecurity research author
+
+---
+
+## 📫 Connect with me
+- 💼 LinkedIn: [your-link]
+- 📧 Email: your@email.com
