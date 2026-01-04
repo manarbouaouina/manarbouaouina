@@ -12,7 +12,7 @@ When I’m not monitoring SOC dashboards or hunting threats, you’ll find me ti
 ---
 
 ## 💡 My Playground
-Here’s what I *play with* daily (all icons, no names 😎):
+Here’s what I *play with* daily:
 
 <div>
 <img src="https://skillicons.dev/icons?i=python,flask,sqlite,azure,aws,n8n,git,linux,java,html,css,js" height="40" />  
@@ -31,14 +31,14 @@ Here’s what I *play with* daily (all icons, no names 😎):
 ---
 
 ## 🌐 Where I Share My Work
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)](https://github.com/YOUR_USERNAME)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&hide=html)](https://github.com/YOUR_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manarbouaouina&show_icons=true&hide_title=true)](https://github.com/manarbouaouina)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manarbouaouina&hide=html)](https://github.com/manarbouaouina)
 
 ---
 
 ## 📫 Say Hi
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manar-bouaouina/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manar.bouaouina@gmail.com)
 
 ---
 
