@@ -40,5 +40,5 @@ Python, Java, Bash
 ---
 
 ## 📫 Connect with me
-- 💼 LinkedIn: [your-link]
-- 📧 Email: your@email.com
+- 💼 LinkedIn: (https://www.linkedin.com/in/manar-bouaouina/)
+- 📧 Email: manar.bouaouina@gmail.com
